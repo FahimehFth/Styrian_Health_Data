@@ -47,6 +47,6 @@ This project utilizes the following technologies and tools:
   - lubridate: For working with date and time data.
   - gridExtra: For arranging multiple plots on the same page.
   - mosaic: For creating mosaic plots to visualize categorical data relationships.
-  - **Multinomial Logistic Regression:** Used for modeling relationships between categorical dependent variables and one or more independent variables.
+- **Multinomial Logistic Regression:** Used for modeling relationships between categorical dependent variables and one or more independent variables.
 
 

@@ -1,6 +1,14 @@
 # Styrian_Health_Data
 A comprehensive geospatial analysis of blood pressure categories across the Austria region
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Data Sources](#data-sources)
+- [Technologies Used](#technologies-used)
+
+
+## Introduction
+
 Blood pressure is a vital sign that reflects the health status of an individual. It can
 indicate the risk of developing heart disease, stroke, and other complications. Therefore,
 analyzing health data is important for understanding the factors that influence it and
@@ -22,3 +30,23 @@ person blood pressure category. Descriptive analysis is done to summarize main f
 and patterns using visualizations. Moreover, the data set is understood better. In
 addition, stepwise selection is employed to choose a subset of predictors that have a
 strong relationship with the target variable.
+
+## Data Sources
+
+The given dataset is provided by Austrian Research Centers GmbH in the Styrian state exhibition in 2006 
+
+## Technologies Used
+
+This project utilizes the following technologies and tools:
+
+- **R Programming Language:** Main programming language used for data analysis and visualization.
+- **RStudio:** Integrated development environment (IDE) for R.
+- **R Libraries:** 
+  - ggplot2: For creating elegant and customizable visualizations such as histograms, scatter plots, box plots, and mosaic plots.
+  - dplyr: For data manipulation tasks such as filtering, summarizing, and mutating data frames.
+  - lubridate: For working with date and time data.
+  - gridExtra: For arranging multiple plots on the same page.
+  - mosaic: For creating mosaic plots to visualize categorical data relationships.
+  - **Multinomial Logistic Regression:** Used for modeling relationships between categorical dependent variables and one or more independent variables.
+
+
